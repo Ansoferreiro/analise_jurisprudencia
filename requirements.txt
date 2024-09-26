@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+scikit-learn
+spacy
+fpdf
+streamlit
+pyspellchecker
+textblob
+PyPDF2
+python-docx
+tkinter
+pyspellchecker
+openpyxl
